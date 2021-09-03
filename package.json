@@ -1,14 +1,14 @@
 {
-  "name": "@apeswapfinance/uikit",
+  "name": "@swap-org/uikit",
   "version": "0.10.35",
-  "description": "Set of UI components for apeswap projects",
+  "description": "Set of UI components for swap.org projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/ApeSwapFinance/apeswap-uikit",
+  "repository": "https://github.com/swap-org/uikit",
   "license": "MIT",
   "scripts": {
     "build": "rm -rf ./dist && rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
