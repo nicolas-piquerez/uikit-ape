@@ -6,7 +6,7 @@ interface LogoProps extends SvgProps {
   isDark: boolean;
 }
 const StyledLogo = styled.h1`
-  font-family: "Titan One", cursive;
+  font-family: "Kanit", cursive;
   color: #1199fa;
   font-weight: 400;
   font-size: 20px;

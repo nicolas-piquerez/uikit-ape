@@ -124,33 +124,33 @@ export const links = [
 ];
 
 export const socials = [
-  {
-    label: "Discord",
-    icon: "DiscordIcon",
-    href: "https://discord.gg/AbVxfGRCSd",
-  },
-  {
-    label: "Telegram",
-    icon: "TelegramIcon",
-    items: [
-      {
-        label: "Spanish",
-        href: "https://t.me/ape_swap_spanish",
-      },
-      {
-        label: "English",
-        href: "https://t.me/ape_swap",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/ape_swap_news",
-      },
-    ],
-  },
+  // {
+  //   label: "Discord",
+  //   icon: "DiscordIcon",
+  //   href: "https://discord.gg/AbVxfGRCSd",
+  // },
+  // {
+  //   label: "Telegram",
+  //   icon: "TelegramIcon",
+  //   items: [
+  //     {
+  //       label: "Spanish",
+  //       href: "https://t.me/ape_swap_spanish",
+  //     },
+  //     {
+  //       label: "English",
+  //       href: "https://t.me/ape_swap",
+  //     },
+  //     {
+  //       label: "Announcements",
+  //       href: "https://t.me/ape_swap_news",
+  //     },
+  //   ],
+  // },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/ape_swap",
+    href: "https://twitter.com/swapdotorg",
   },
 ];
 

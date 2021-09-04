@@ -69,6 +69,6 @@ export type ZIndices = {
 };
 
 export type FontFamily = {
-  titan: string;
+  kanit: string;
   poppins: string;
 };
